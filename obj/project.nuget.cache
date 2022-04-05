@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOOovfcgM6RacRGyMpLOizXMt0kamGfwY/67bbMdZlANVBoeXDNi6t0B22N0KM18VQC446AL/03TV3XCdfcfMw==",
+  "success": true,
+  "projectFilePath": "D:\\21-22 Güz Dönemi\\Nesne Tabanlı VisualBasic\\Projeler\\SezarSifreleme\\SezarSifreleme.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\doguk\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
